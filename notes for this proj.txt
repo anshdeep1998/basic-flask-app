@@ -1,0 +1,8 @@
+We will create simple hello world flask application and deploy it on heroku using docker as of now.
+
+We will then work on ml project, then keep changing our functionalities from our system  which should be visible in heroku deployed version
+also. We will create an automated pipeline such that whatever changes we make, they are visible on heroku deployed version also.
+
+Now we will learn to establish CI/CD pipeline.
+
+we will be deploying our application in heroku cloud and use github as repository.
